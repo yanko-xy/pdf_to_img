@@ -1,1 +1,0 @@
-([('main', '/Users/sheepzhao/WorkSpace/pdfToText/dist/main', 'EXECUTABLE')],)
